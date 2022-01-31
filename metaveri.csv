@@ -1,0 +1,1469 @@
+KAPSAM,,
+"81 il ve 973 ilçenin tamamýný kapsayacak þekilde 11 ana baþlýkta, 32 orta baþlýkta ve 1422 baþlýkta toplam 4.629.014 satýr veri ile çalýþýlmýþtýr. 11 ana baþlýkta hangi yýllarýn yer aldýðý aþaðýdaki tabloda bulunmaktadýr.",,
+,,
+Ana baþlýk,Baþlangýç Yýlý,Bitiþ Yýlý
+Eðitim,2008,2020
+Hayvancýlýk,2004,2020
+Konut,2015,2021
+Meyveler,2004,2020
+Nüfus,2007,2020
+Sebzeler,2004,2020
+Seracýlýk (Örtü altý),2004,2020
+Süs Bitkileri,2011,2020
+Tarýmsal Alan,2004,2020
+Tarýmsal Alet,1991,2020
+Tarla Bitkileri,2004,2020
+,,
+DÜZELTMELER,,
+Ýllerin veya ilçelerin idari statüsündeki deðiþiklikler ile il-ilçe isim deðiþikliði neticesinde düzenleme yapma gereksinimi doðmuþtur. Bu düzenlemeler tüm veriler üzerinden aþaðýdaki yöntemlerle gerçekleþtirilmiþtir.,,
+,,
+·         Büyükþehir olmayan illerde “Merkez” verileri ilin kendi adý altýnda sunulmuþtur.,,
+,,
+·         Büyükþehir statüsündeki illerde idari statü deðiþiminden önce “Merkez” e ait veriler yeni statüde ilin merkez ilçesine aktarýlmýþtýr.,,
+,,
+"·         Ýzmir “Merkez” e ait veriler ""Meyveler"" ve ""Tarýmsal Alet"" baþlýklarýnda Karabaðlar ilçesine, ""Sebzeler"" ve ""Seracýlýk (Örtü altý)"" baþlýklarýnda Konak ilçesine aktarýlmýþtýr.",,
+,,
+"·         Ankara ""Merkez"" e ait veriler ""Tarýmsal Alet"" baþlýðýnda Çankaya ilçesine aktarýlmýþtýr.",,
+,,
+Ýsim deðiþikliði yapýlan  ve farklý veri kaynaklarýnda farklý yazýlmýþ bulunan ilçerin adlarý aþaðýdaki þekilde alýnmýþtýr:,,
+Denizli ilinde Akköy ilçesinin adý Pamukkale olmuþtur.,,
+Siirt ilinde Aydýnlar ilçesinin adý Tillo olmuþtur.,,
+Erzurum ilinde Ilýca ilçesinin adý Aziziye olmuþtur.,,
+Doðubayazýt (Aðrý),,
+Karkamýþ (Gaziantep),,
+Pütürge (Malatya),,
+Eyüpsultan (Ýstanbul),,
+Süloðlu (Edirne),,
+Marmara Ereðlisi (Tekirdað),,
+19 Mayýs (Samsun),,
+Eyyübiye (Þanlýurfa),,
+Çaðlayancerit (Kahramanmaraþ),,
+Kahramankazan (Ankara),,
+ ,,
+KAYNAK,,
+Tüm verilerin kaynaðý Türkiye Ýstatistik Kurumu (TUÝK) veri tabanýdýr.,,
+,,
+VERÝ BAÞLIKLARI,,
+Anabaþlýk,Orta Baþlýk,Baþlýk
+Eðitim,Bitirilen Eðitim Seviyesi,Doktora - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Doktora - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Doktora - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlkokul - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlkokul - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlkokul - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlköðretim - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlköðretim - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Ýlköðretim - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Lise Ve Dengi Meslek Okulu - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Lise Ve Dengi Meslek Okulu - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Lise Ve Dengi Meslek Okulu - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilen Fakat Bir Okul Bitirmeyen - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilen Fakat Bir Okul Bitirmeyen - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilen Fakat Bir Okul Bitirmeyen - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilmeyen - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilmeyen - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Okuma Yazma Bilmeyen - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Ortaokul Ve Dengi Meslek Okulu  - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Ortaokul Ve Dengi Meslek Okulu  - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Ortaokul Ve Dengi Meslek Okulu  - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksek Lisans (5 Veya 6 Yýllýk Fakülteler Dahil) - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksek Lisans (5 Veya 6 Yýllýk Fakülteler Dahil) - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksek Lisans (5 Veya 6 Yýllýk Fakülteler Dahil) - Toplam
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksekokul Veya Fakülte - Erkek
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksekokul Veya Fakülte - Kadýn
+Eðitim,Bitirilen Eðitim Seviyesi,Yüksekokul Veya Fakülte - Toplam
+Hayvancýlýk,Arýcýlýk,Bal Mumu Üretimi (Ton)
+Hayvancýlýk,Arýcýlýk,Bal Üretimi (Ton)
+Hayvancýlýk,Arýcýlýk,Ýþletme Sayýsý
+Hayvancýlýk,Arýcýlýk,Kovan Sayýsý
+Hayvancýlýk,Hayvan Sayýsý,At
+Hayvancýlýk,Hayvan Sayýsý,Deve
+Hayvancýlýk,Hayvan Sayýsý,Domuz
+Hayvancýlýk,Hayvan Sayýsý,Eþek
+Hayvancýlýk,Hayvan Sayýsý,Katýr
+Hayvancýlýk,Hayvan Sayýsý,Keçi (Kýl Keçisi Ve Diðer Irklar)
+Hayvancýlýk,Hayvan Sayýsý,Keçi (Tiftik Keçisi)
+Hayvancýlýk,Hayvan Sayýsý,Koyun (Merinos Irký)
+Hayvancýlýk,Hayvan Sayýsý,Koyun (Yerli Ve Diðer Irklar)
+Hayvancýlýk,Hayvan Sayýsý,Manda
+Hayvancýlýk,Hayvan Sayýsý,Sýðýr (Kültür Irký)
+Hayvancýlýk,Hayvan Sayýsý,Sýðýr (Kültür Melezi Irký)
+Hayvancýlýk,Hayvan Sayýsý,Sýðýr (Yerli  Irk)
+Hayvancýlýk,Ýpekböcekciliði,Açýlan Kutu (Adet)
+Hayvancýlýk,Ýpekböcekciliði,Hane Sayýsý
+Hayvancýlýk,Ýpekböcekciliði,Köy Sayýsý
+Hayvancýlýk,Ýpekböcekciliði,Yaþ Koza (Ton)
+Hayvancýlýk,Kanatlýlar,Etçi Tavuk (Adet)
+Hayvancýlýk,Kanatlýlar,Hindi (Adet)
+Hayvancýlýk,Kanatlýlar,Kaz (Adet)
+Hayvancýlýk,Kanatlýlar,Ördek (Adet)
+Hayvancýlýk,Kanatlýlar,Yumurtacý Tavuk (Adet)
+Hayvancýlýk,Kýrkýlan Hayvan Sayýsý (Baþ),Keçi (Kýl)
+Hayvancýlýk,Kýrkýlan Hayvan Sayýsý (Baþ),Keçi (Tiftik)
+Hayvancýlýk,Kýrkýlan Hayvan Sayýsý (Baþ),Koyun (Merinos)
+Hayvancýlýk,Kýrkýlan Hayvan Sayýsý (Baþ),Koyun (Yerli)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Keçi (Kýl)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Keçi (Tiftik)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Koyun (Merinos)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Koyun (Yerli)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Manda
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Sýðýr (Kültür)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Sýðýr (Melez)
+Hayvancýlýk,Saðýlan Hayvan Sayýsý (Baþ),Sýðýr (Yerli)
+Hayvancýlýk,Süt (Ton),Keçi (Kýl)
+Hayvancýlýk,Süt (Ton),Keçi (Tiftik)
+Hayvancýlýk,Süt (Ton),Koyun (Merinos)
+Hayvancýlýk,Süt (Ton),Koyun (Yerli)
+Hayvancýlýk,Süt (Ton),Manda
+Hayvancýlýk,Süt (Ton),Sýðýr (Kültür)
+Hayvancýlýk,Süt (Ton),Sýðýr (Melez)
+Hayvancýlýk,Süt (Ton),Sýðýr (Yerli)
+Hayvancýlýk,Yün-Kýl-Tiftik (Ton),Keçi (Kýl)
+Hayvancýlýk,Yün-Kýl-Tiftik (Ton),Keçi (Tiftik)
+Hayvancýlýk,Yün-Kýl-Tiftik (Ton),Koyun (Merinos)
+Hayvancýlýk,Yün-Kýl-Tiftik (Ton),Koyun (Yerli)
+Konut,Konut Satýþý,Konut Satýþý
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Ahududu
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Anason
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Antep Fýstýðý
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Armut
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Avokado
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Ayva
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Badem
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Böðürtlen
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Ceviz
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Çay (Yaþ)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Çilek
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Çörekotu
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Dut
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Elma (Amasya)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Elma (Diðer)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Elma (Golden)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Elma (Grannysmith)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Elma (Starking)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Erik
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Fýndýk
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Greyfurt (Altýntop)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Hünnap
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Ýðde
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Ýncir
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kapari (Gebere Otu)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kayýsý
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Keçi Boynuzu
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kekik
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kestane
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kýrmýzý Biber (Baharatlýk-Ýþlenmemiþ)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kýzýlcýk
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kimyon
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kiraz
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kiþniþ
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Kivi
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Limon
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Mandalina (Clementin)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Mandalina (Diðer)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Mandalina (King)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Mandalina (Satsuma)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Muþmula
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Muz
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Nar
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Portakal (Diðer)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Portakal (Washington)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Portakal (Yafa)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Rezene
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Süpürge Otu
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Þeftali (Diðer)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Þeftali (Nektarin)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Trabzon Hurmasý
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Turunç
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Üzüm (Kurutmalýk-Çekirdekli)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Üzüm (Kurutmalýk-Çekirdeksiz)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Üzüm (Sofralýk-Çekirdekli)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Üzüm (Sofralýk-Çekirdeksiz)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Üzüm (Þaraplýk)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Viþne
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Yaban Mersini (Mavi Yemiþ)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Yenidünya
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Zerdali
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Zeytin (Sofralýk)
+Meyveler,Meyve Veren Yaþta Aðaç Sayýsý,Zeytin (Yaðlýk)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Ahududu
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Anason
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Antep Fýstýðý
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Armut
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Avokado
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Ayva
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Badem
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Böðürtlen
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Ceviz
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Çay (Yaþ)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Çilek
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Çörekotu
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Dut
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Elma (Amasya)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Elma (Diðer)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Elma (Golden)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Elma (Grannysmith)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Elma (Starking)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Erik
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Fýndýk
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Greyfurt (Altýntop)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Hünnap
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Ýðde
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Ýncir
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kapari (Gebere Otu)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kayýsý
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Keçi Boynuzu
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kekik
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kestane
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kýrmýzý Biber (Baharatlýk-Ýþlenmemiþ)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kýzýlcýk
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kimyon
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kiraz
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kiþniþ
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Kivi
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Limon
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Mandalina (Clementin)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Mandalina (Diðer)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Mandalina (King)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Mandalina (Satsuma)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Muþmula
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Muz
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Nar
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Portakal (Diðer)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Portakal (Washington)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Portakal (Yafa)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Rezene
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Süpürge Otu
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Þeftali (Diðer)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Þeftali (Nektarin)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Trabzon Hurmasý
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Turunç
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Üzüm (Kurutmalýk-Çekirdekli)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Üzüm (Kurutmalýk-Çekirdeksiz)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Üzüm (Sofralýk-Çekirdekli)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Üzüm (Sofralýk-Çekirdeksiz)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Üzüm (Þaraplýk)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Viþne
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Yaban Mersini (Mavi Yemiþ)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Yenidünya
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Zerdali
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Zeytin (Sofralýk)
+Meyveler,Meyve Vermeyen Yaþta Aðaç Sayýsý,Zeytin (Yaðlýk)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Ahududu
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Anason
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Antep Fýstýðý
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Armut
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Avokado
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Ayva
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Badem
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Böðürtlen
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Ceviz
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Çay (Yaþ)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Çilek
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Çörekotu
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Dut
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Elma (Amasya)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Elma (Diðer)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Elma (Golden)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Elma (Grannysmith)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Elma (Starking)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Erik
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Fýndýk
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Greyfurt (Altýntop)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Hünnap
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Ýðde
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Ýncir
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kapari (Gebere Otu)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kayýsý
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Keçi Boynuzu
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kekik
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kestane
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kýrmýzý Biber (Baharatlýk-Ýþlenmemiþ)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kýzýlcýk
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kimyon
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kiraz
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kiþniþ
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Kivi
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Limon
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Mandalina (Clementin)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Mandalina (Diðer)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Mandalina (King)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Mandalina (Satsuma)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Muþmula
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Muz
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Nar
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Portakal (Diðer)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Portakal (Washington)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Portakal (Yafa)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Rezene
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Süpürge Otu
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Þeftali (Diðer)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Þeftali (Nektarin)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Trabzon Hurmasý
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Turunç
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Üzüm (Kurutmalýk-Çekirdekli)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Üzüm (Kurutmalýk-Çekirdeksiz)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Üzüm (Sofralýk-Çekirdekli)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Üzüm (Sofralýk-Çekirdeksiz)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Üzüm (Þaraplýk)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Viþne
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Yaban Mersini (Mavi Yemiþ)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Yenidünya
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Zerdali
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Zeytin (Sofralýk)
+Meyveler,Toplu Meyveliklerin Alaný (Dekar),Zeytin (Yaðlýk)
+Meyveler,Üretim (Ton),Ahududu
+Meyveler,Üretim (Ton),Anason
+Meyveler,Üretim (Ton),Antep Fýstýðý
+Meyveler,Üretim (Ton),Armut
+Meyveler,Üretim (Ton),Avokado
+Meyveler,Üretim (Ton),Ayva
+Meyveler,Üretim (Ton),Badem
+Meyveler,Üretim (Ton),Böðürtlen
+Meyveler,Üretim (Ton),Ceviz
+Meyveler,Üretim (Ton),Çay (Yaþ)
+Meyveler,Üretim (Ton),Çilek
+Meyveler,Üretim (Ton),Çörekotu
+Meyveler,Üretim (Ton),Dut
+Meyveler,Üretim (Ton),Elma (Amasya)
+Meyveler,Üretim (Ton),Elma (Diðer)
+Meyveler,Üretim (Ton),Elma (Golden)
+Meyveler,Üretim (Ton),Elma (Grannysmith)
+Meyveler,Üretim (Ton),Elma (Starking)
+Meyveler,Üretim (Ton),Erik
+Meyveler,Üretim (Ton),Fýndýk
+Meyveler,Üretim (Ton),Greyfurt (Altýntop)
+Meyveler,Üretim (Ton),Hünnap
+Meyveler,Üretim (Ton),Ýðde
+Meyveler,Üretim (Ton),Ýncir
+Meyveler,Üretim (Ton),Kapari (Gebere Otu)
+Meyveler,Üretim (Ton),Kayýsý
+Meyveler,Üretim (Ton),Keçi Boynuzu
+Meyveler,Üretim (Ton),Kekik
+Meyveler,Üretim (Ton),Kestane
+Meyveler,Üretim (Ton),Kýrmýzý Biber (Baharatlýk-Ýþlenmemiþ)
+Meyveler,Üretim (Ton),Kýzýlcýk
+Meyveler,Üretim (Ton),Kimyon
+Meyveler,Üretim (Ton),Kiraz
+Meyveler,Üretim (Ton),Kiþniþ
+Meyveler,Üretim (Ton),Kivi
+Meyveler,Üretim (Ton),Limon
+Meyveler,Üretim (Ton),Mandalina (Clementin)
+Meyveler,Üretim (Ton),Mandalina (Diðer)
+Meyveler,Üretim (Ton),Mandalina (King)
+Meyveler,Üretim (Ton),Mandalina (Satsuma)
+Meyveler,Üretim (Ton),Muþmula
+Meyveler,Üretim (Ton),Muz
+Meyveler,Üretim (Ton),Nar
+Meyveler,Üretim (Ton),Portakal (Diðer)
+Meyveler,Üretim (Ton),Portakal (Washington)
+Meyveler,Üretim (Ton),Portakal (Yafa)
+Meyveler,Üretim (Ton),Rezene
+Meyveler,Üretim (Ton),Süpürge Otu
+Meyveler,Üretim (Ton),Þeftali (Diðer)
+Meyveler,Üretim (Ton),Þeftali (Nektarin)
+Meyveler,Üretim (Ton),Trabzon Hurmasý
+Meyveler,Üretim (Ton),Turunç
+Meyveler,Üretim (Ton),Üzüm (Kurutmalýk-Çekirdekli)
+Meyveler,Üretim (Ton),Üzüm (Kurutmalýk-Çekirdeksiz)
+Meyveler,Üretim (Ton),Üzüm (Sofralýk-Çekirdekli)
+Meyveler,Üretim (Ton),Üzüm (Sofralýk-Çekirdeksiz)
+Meyveler,Üretim (Ton),Üzüm (Þaraplýk)
+Meyveler,Üretim (Ton),Viþne
+Meyveler,Üretim (Ton),Yaban Mersini (Mavi Yemiþ)
+Meyveler,Üretim (Ton),Yenidünya
+Meyveler,Üretim (Ton),Zerdali
+Meyveler,Üretim (Ton),Zeytin (Sofralýk)
+Meyveler,Üretim (Ton),Zeytin (Yaðlýk)
+Nüfus,Nüfus,Nüfus
+Sebzeler,Ekilen Alan (Dekar),Acur
+Sebzeler,Ekilen Alan (Dekar),Bakla (Taze)
+Sebzeler,Ekilen Alan (Dekar),Balkabaðý
+Sebzeler,Ekilen Alan (Dekar),Bamya
+Sebzeler,Ekilen Alan (Dekar),Barbunya Fasulye (Taze)
+Sebzeler,Ekilen Alan (Dekar),Bezelye (Taze)
+Sebzeler,Ekilen Alan (Dekar),Biber (Çarliston)
+Sebzeler,Ekilen Alan (Dekar),Biber (Dolmalýk)
+Sebzeler,Ekilen Alan (Dekar),"Biber (Salçalýk, Kapya)"
+Sebzeler,Ekilen Alan (Dekar),Biber (Sivri)
+Sebzeler,Ekilen Alan (Dekar),Börülce (Taze)
+Sebzeler,Ekilen Alan (Dekar),Brokoli
+Sebzeler,Ekilen Alan (Dekar),Dereotu
+Sebzeler,Ekilen Alan (Dekar),Domates
+Sebzeler,Ekilen Alan (Dekar),Domates (Salçalýk)
+Sebzeler,Ekilen Alan (Dekar),Domates (Sofralýk)
+Sebzeler,Ekilen Alan (Dekar),Enginar
+Sebzeler,Ekilen Alan (Dekar),Fasulye (Taze)
+Sebzeler,Ekilen Alan (Dekar),Havuç
+Sebzeler,Ekilen Alan (Dekar),Hýyar
+Sebzeler,Ekilen Alan (Dekar),Hýyar (Sofralýk)
+Sebzeler,Ekilen Alan (Dekar),Hýyar (Turþuluk)
+Sebzeler,Ekilen Alan (Dekar),Ispanak
+Sebzeler,Ekilen Alan (Dekar),Kabak (Çerezlik)
+Sebzeler,Ekilen Alan (Dekar),Kabak (Sakýz)
+Sebzeler,Ekilen Alan (Dekar),Karnýbahar
+Sebzeler,Ekilen Alan (Dekar),Karpuz
+Sebzeler,Ekilen Alan (Dekar),Kavun
+Sebzeler,Ekilen Alan (Dekar),Kereviz (Kök)
+Sebzeler,Ekilen Alan (Dekar),Kereviz (Sap)
+Sebzeler,Ekilen Alan (Dekar),Kýrmýzý Pancar
+Sebzeler,Ekilen Alan (Dekar),Kuþkonmaz
+Sebzeler,Ekilen Alan (Dekar),Lahana (Beyaz)
+Sebzeler,Ekilen Alan (Dekar),Lahana (Brüksel)
+Sebzeler,Ekilen Alan (Dekar),Lahana (Karayaprak)
+Sebzeler,Ekilen Alan (Dekar),Lahana (Kýrmýzý)
+Sebzeler,Ekilen Alan (Dekar),Mantar (Kültür)
+Sebzeler,Ekilen Alan (Dekar),Marul (Aysberg)
+Sebzeler,Ekilen Alan (Dekar),Marul (Göbekli)
+Sebzeler,Ekilen Alan (Dekar),Marul (Kývýrcýk)
+Sebzeler,Ekilen Alan (Dekar),Maydonoz
+Sebzeler,Ekilen Alan (Dekar),Nane
+Sebzeler,Ekilen Alan (Dekar),Patlýcan
+Sebzeler,Ekilen Alan (Dekar),Pazý
+Sebzeler,Ekilen Alan (Dekar),Pepino
+Sebzeler,Ekilen Alan (Dekar),Pýrasa
+Sebzeler,Ekilen Alan (Dekar),Roka
+Sebzeler,Ekilen Alan (Dekar),Sarýmsak (Kuru)
+Sebzeler,Ekilen Alan (Dekar),Sarýmsak (Taze)
+Sebzeler,Ekilen Alan (Dekar),Semizotu
+Sebzeler,Ekilen Alan (Dekar),Soðan (Kuru)
+Sebzeler,Ekilen Alan (Dekar),Soðan (Taze)
+Sebzeler,Ekilen Alan (Dekar),Þalgam
+Sebzeler,Ekilen Alan (Dekar),Tere
+Sebzeler,Ekilen Alan (Dekar),Turp (Bayýr)
+Sebzeler,Ekilen Alan (Dekar),Turp (Beyaz)
+Sebzeler,Ekilen Alan (Dekar),Turp (Kýrmýzý)
+Sebzeler,Üretim (Ton),Acur
+Sebzeler,Üretim (Ton),Bakla (Taze)
+Sebzeler,Üretim (Ton),Balkabaðý
+Sebzeler,Üretim (Ton),Bamya
+Sebzeler,Üretim (Ton),Barbunya Fasulye (Taze)
+Sebzeler,Üretim (Ton),Bezelye (Taze)
+Sebzeler,Üretim (Ton),Biber (Çarliston)
+Sebzeler,Üretim (Ton),Biber (Dolmalýk)
+Sebzeler,Üretim (Ton),"Biber (Salçalýk, Kapya)"
+Sebzeler,Üretim (Ton),Biber (Sivri)
+Sebzeler,Üretim (Ton),Börülce (Taze)
+Sebzeler,Üretim (Ton),Brokoli
+Sebzeler,Üretim (Ton),Dereotu
+Sebzeler,Üretim (Ton),Domates
+Sebzeler,Üretim (Ton),Domates (Salçalýk)
+Sebzeler,Üretim (Ton),Domates (Sofralýk)
+Sebzeler,Üretim (Ton),Enginar
+Sebzeler,Üretim (Ton),Fasulye (Taze)
+Sebzeler,Üretim (Ton),Havuç
+Sebzeler,Üretim (Ton),Hýyar
+Sebzeler,Üretim (Ton),Hýyar (Sofralýk)
+Sebzeler,Üretim (Ton),Hýyar (Turþuluk)
+Sebzeler,Üretim (Ton),Ispanak
+Sebzeler,Üretim (Ton),Kabak (Çerezlik)
+Sebzeler,Üretim (Ton),Kabak (Sakýz)
+Sebzeler,Üretim (Ton),Karnýbahar
+Sebzeler,Üretim (Ton),Karpuz
+Sebzeler,Üretim (Ton),Kavun
+Sebzeler,Üretim (Ton),Kereviz (Kök)
+Sebzeler,Üretim (Ton),Kereviz (Sap)
+Sebzeler,Üretim (Ton),Kýrmýzý Pancar
+Sebzeler,Üretim (Ton),Kuþkonmaz
+Sebzeler,Üretim (Ton),Lahana (Beyaz)
+Sebzeler,Üretim (Ton),Lahana (Brüksel)
+Sebzeler,Üretim (Ton),Lahana (Karayaprak)
+Sebzeler,Üretim (Ton),Lahana (Kýrmýzý)
+Sebzeler,Üretim (Ton),Mantar (Kültür)
+Sebzeler,Üretim (Ton),Marul (Aysberg)
+Sebzeler,Üretim (Ton),Marul (Göbekli)
+Sebzeler,Üretim (Ton),Marul (Kývýrcýk)
+Sebzeler,Üretim (Ton),Maydonoz
+Sebzeler,Üretim (Ton),Nane
+Sebzeler,Üretim (Ton),Patlýcan
+Sebzeler,Üretim (Ton),Pazý
+Sebzeler,Üretim (Ton),Pepino
+Sebzeler,Üretim (Ton),Pýrasa
+Sebzeler,Üretim (Ton),Roka
+Sebzeler,Üretim (Ton),Sarýmsak (Kuru)
+Sebzeler,Üretim (Ton),Sarýmsak (Taze)
+Sebzeler,Üretim (Ton),Semizotu
+Sebzeler,Üretim (Ton),Soðan (Kuru)
+Sebzeler,Üretim (Ton),Soðan (Taze)
+Sebzeler,Üretim (Ton),Þalgam
+Sebzeler,Üretim (Ton),Tere
+Sebzeler,Üretim (Ton),Turp (Bayýr)
+Sebzeler,Üretim (Ton),Turp (Beyaz)
+Sebzeler,Üretim (Ton),Turp (Kýrmýzý)
+Seracýlýk (Örtüaltý),Alan (Dekar),Bakla (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Bamya
+Seracýlýk (Örtüaltý),Alan (Dekar),Bezelye (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Biber (Çarliston)
+Seracýlýk (Örtüaltý),Alan (Dekar),Biber (Dolmalýk)
+Seracýlýk (Örtüaltý),Alan (Dekar),"Biber (Salçalýk, Kapya)"
+Seracýlýk (Örtüaltý),Alan (Dekar),Biber (Sivri)
+Seracýlýk (Örtüaltý),Alan (Dekar),Börülce (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Brokoli
+Seracýlýk (Örtüaltý),Alan (Dekar),Çilek
+Seracýlýk (Örtüaltý),Alan (Dekar),Dereotu
+Seracýlýk (Örtüaltý),Alan (Dekar),Domates
+Seracýlýk (Örtüaltý),Alan (Dekar),Enginar
+Seracýlýk (Örtüaltý),Alan (Dekar),Erik
+Seracýlýk (Örtüaltý),Alan (Dekar),Fasulye (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Hýyar
+Seracýlýk (Örtüaltý),Alan (Dekar),Ispanak
+Seracýlýk (Örtüaltý),Alan (Dekar),Kabak (Sakýz)
+Seracýlýk (Örtüaltý),Alan (Dekar),Karnýbahar
+Seracýlýk (Örtüaltý),Alan (Dekar),Karpuz
+Seracýlýk (Örtüaltý),Alan (Dekar),Kavun
+Seracýlýk (Örtüaltý),Alan (Dekar),Kayýsý
+Seracýlýk (Örtüaltý),Alan (Dekar),Lahana (Brüksel)
+Seracýlýk (Örtüaltý),Alan (Dekar),Lahana (Karayaprak)
+Seracýlýk (Örtüaltý),Alan (Dekar),Lahana (Kýrmýzý)
+Seracýlýk (Örtüaltý),Alan (Dekar),Marul (Aysberg)
+Seracýlýk (Örtüaltý),Alan (Dekar),Marul (Göbekli)
+Seracýlýk (Örtüaltý),Alan (Dekar),Marul (Kývýrcýk)
+Seracýlýk (Örtüaltý),Alan (Dekar),Maydonoz
+Seracýlýk (Örtüaltý),Alan (Dekar),Muz
+Seracýlýk (Örtüaltý),Alan (Dekar),Nane
+Seracýlýk (Örtüaltý),Alan (Dekar),Patlýcan
+Seracýlýk (Örtüaltý),Alan (Dekar),Pepino
+Seracýlýk (Örtüaltý),Alan (Dekar),Pýrasa
+Seracýlýk (Örtüaltý),Alan (Dekar),Roka
+Seracýlýk (Örtüaltý),Alan (Dekar),Sarýmsak (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Semizotu
+Seracýlýk (Örtüaltý),Alan (Dekar),Soðan (Taze)
+Seracýlýk (Örtüaltý),Alan (Dekar),Þeftali (Nektarin)
+Seracýlýk (Örtüaltý),Alan (Dekar),Tere
+Seracýlýk (Örtüaltý),Alan (Dekar),Turp (Beyaz)
+Seracýlýk (Örtüaltý),Alan (Dekar),Turp (Kýrmýzý)
+Seracýlýk (Örtüaltý),Alan (Dekar),Üzüm (Sofralýk-Çekirdekli)
+Seracýlýk (Örtüaltý),Alan (Dekar),Üzüm (Sofralýk-Çekirdeksiz)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Anemon (Manisa Lalesi)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Çiçek Soðanlarý
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Dýþ Mekan Süs Bitkileri
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Diðer Kesme Çiçekler
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Fresia
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Gerbera
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Glayöl (Gladiol)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Gül (Kesme)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Gypsohilla
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Ýç Mekan Süs Bitkileri
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Ýris
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Karanfil
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Kasýmpatý (Krizantem)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Lale
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Lilyum (Zambak)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Lisianthus
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Nergiz
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Orkide
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Solidago (Altýnbaþak)
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Statice
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Sümbül
+Seracýlýk (Örtüaltý),Ekilen Alan (M2),Þebboy
+Seracýlýk (Örtüaltý),Örtüaltý Tarým Alanlarý,Toplam Alçak Tünel Alaný (Dekar)
+Seracýlýk (Örtüaltý),Örtüaltý Tarým Alanlarý,Toplam Cam Sera Alaný (Dekar)
+Seracýlýk (Örtüaltý),Örtüaltý Tarým Alanlarý,Toplam Örtüaltý Alaný (Dekar)
+Seracýlýk (Örtüaltý),Örtüaltý Tarým Alanlarý,Toplam Plastik Sera Alaný (Dekar)
+Seracýlýk (Örtüaltý),Örtüaltý Tarým Alanlarý,Toplam Yüksek Tünel Alaný (Dekar)
+Seracýlýk (Örtüaltý),Üretim (Adet),Anemon (Manisa Lalesi)
+Seracýlýk (Örtüaltý),Üretim (Adet),Çiçek Soðanlarý
+Seracýlýk (Örtüaltý),Üretim (Adet),Dýþ Mekan Süs Bitkileri
+Seracýlýk (Örtüaltý),Üretim (Adet),Diðer Kesme Çiçekler
+Seracýlýk (Örtüaltý),Üretim (Adet),Fresia
+Seracýlýk (Örtüaltý),Üretim (Adet),Gerbera
+Seracýlýk (Örtüaltý),Üretim (Adet),Glayöl (Gladiol)
+Seracýlýk (Örtüaltý),Üretim (Adet),Gül (Kesme)
+Seracýlýk (Örtüaltý),Üretim (Adet),Gypsohilla
+Seracýlýk (Örtüaltý),Üretim (Adet),Ýç Mekan Süs Bitkileri
+Seracýlýk (Örtüaltý),Üretim (Adet),Ýris
+Seracýlýk (Örtüaltý),Üretim (Adet),Karanfil
+Seracýlýk (Örtüaltý),Üretim (Adet),Kasýmpatý (Krizantem)
+Seracýlýk (Örtüaltý),Üretim (Adet),Lale
+Seracýlýk (Örtüaltý),Üretim (Adet),Lilyum (Zambak)
+Seracýlýk (Örtüaltý),Üretim (Adet),Lisianthus
+Seracýlýk (Örtüaltý),Üretim (Adet),Nergiz
+Seracýlýk (Örtüaltý),Üretim (Adet),Orkide
+Seracýlýk (Örtüaltý),Üretim (Adet),Solidago (Altýnbaþak)
+Seracýlýk (Örtüaltý),Üretim (Adet),Statice
+Seracýlýk (Örtüaltý),Üretim (Adet),Sümbül
+Seracýlýk (Örtüaltý),Üretim (Adet),Þebboy
+Seracýlýk (Örtüaltý),Üretim (Ton),Bakla (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Bamya
+Seracýlýk (Örtüaltý),Üretim (Ton),Bezelye (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Biber (Çarliston)
+Seracýlýk (Örtüaltý),Üretim (Ton),Biber (Dolmalýk)
+Seracýlýk (Örtüaltý),Üretim (Ton),"Biber (Salçalýk, Kapya)"
+Seracýlýk (Örtüaltý),Üretim (Ton),Biber (Sivri)
+Seracýlýk (Örtüaltý),Üretim (Ton),Börülce (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Brokoli
+Seracýlýk (Örtüaltý),Üretim (Ton),Çilek
+Seracýlýk (Örtüaltý),Üretim (Ton),Dereotu
+Seracýlýk (Örtüaltý),Üretim (Ton),Domates
+Seracýlýk (Örtüaltý),Üretim (Ton),Enginar
+Seracýlýk (Örtüaltý),Üretim (Ton),Erik
+Seracýlýk (Örtüaltý),Üretim (Ton),Fasulye (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Hýyar
+Seracýlýk (Örtüaltý),Üretim (Ton),Ispanak
+Seracýlýk (Örtüaltý),Üretim (Ton),Kabak (Sakýz)
+Seracýlýk (Örtüaltý),Üretim (Ton),Karnýbahar
+Seracýlýk (Örtüaltý),Üretim (Ton),Karpuz
+Seracýlýk (Örtüaltý),Üretim (Ton),Kavun
+Seracýlýk (Örtüaltý),Üretim (Ton),Kayýsý
+Seracýlýk (Örtüaltý),Üretim (Ton),Lahana (Brüksel)
+Seracýlýk (Örtüaltý),Üretim (Ton),Lahana (Karayaprak)
+Seracýlýk (Örtüaltý),Üretim (Ton),Lahana (Kýrmýzý)
+Seracýlýk (Örtüaltý),Üretim (Ton),Marul (Aysberg)
+Seracýlýk (Örtüaltý),Üretim (Ton),Marul (Göbekli)
+Seracýlýk (Örtüaltý),Üretim (Ton),Marul (Kývýrcýk)
+Seracýlýk (Örtüaltý),Üretim (Ton),Maydonoz
+Seracýlýk (Örtüaltý),Üretim (Ton),Muz
+Seracýlýk (Örtüaltý),Üretim (Ton),Nane
+Seracýlýk (Örtüaltý),Üretim (Ton),Patlýcan
+Seracýlýk (Örtüaltý),Üretim (Ton),Pepino
+Seracýlýk (Örtüaltý),Üretim (Ton),Pýrasa
+Seracýlýk (Örtüaltý),Üretim (Ton),Roka
+Seracýlýk (Örtüaltý),Üretim (Ton),Sarýmsak (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Semizotu
+Seracýlýk (Örtüaltý),Üretim (Ton),Soðan (Taze)
+Seracýlýk (Örtüaltý),Üretim (Ton),Þeftali (Nektarin)
+Seracýlýk (Örtüaltý),Üretim (Ton),Tere
+Seracýlýk (Örtüaltý),Üretim (Ton),Turp (Beyaz)
+Seracýlýk (Örtüaltý),Üretim (Ton),Turp (Kýrmýzý)
+Seracýlýk (Örtüaltý),Üretim (Ton),Üzüm (Sofralýk-Çekirdekli)
+Seracýlýk (Örtüaltý),Üretim (Ton),Üzüm (Sofralýk-Çekirdeksiz)
+Süs Bitkileri,Ekilen Alan (M2),Anemon (Manisa Lalesi)
+Süs Bitkileri,Ekilen Alan (M2),Çiçek Soðanlarý
+Süs Bitkileri,Ekilen Alan (M2),Dýþ Mekan Süs Bitkileri
+Süs Bitkileri,Ekilen Alan (M2),Diðer Kesme Çiçekler
+Süs Bitkileri,Ekilen Alan (M2),Fresia
+Süs Bitkileri,Ekilen Alan (M2),Gerbera
+Süs Bitkileri,Ekilen Alan (M2),Glayöl (Gladiol)
+Süs Bitkileri,Ekilen Alan (M2),Gül (Kesme)
+Süs Bitkileri,Ekilen Alan (M2),Gypsohilla
+Süs Bitkileri,Ekilen Alan (M2),Ýç Mekan Süs Bitkileri
+Süs Bitkileri,Ekilen Alan (M2),Ýris
+Süs Bitkileri,Ekilen Alan (M2),Karanfil
+Süs Bitkileri,Ekilen Alan (M2),Kasýmpatý (Krizantem)
+Süs Bitkileri,Ekilen Alan (M2),Lale
+Süs Bitkileri,Ekilen Alan (M2),Lilyum (Zambak)
+Süs Bitkileri,Ekilen Alan (M2),Lisianthus
+Süs Bitkileri,Ekilen Alan (M2),Nergiz
+Süs Bitkileri,Ekilen Alan (M2),Orkide
+Süs Bitkileri,Ekilen Alan (M2),Solidago (Altýnbaþak)
+Süs Bitkileri,Ekilen Alan (M2),Statice
+Süs Bitkileri,Ekilen Alan (M2),Sümbül
+Süs Bitkileri,Ekilen Alan (M2),Þebboy
+Süs Bitkileri,Üretim (Adet),Anemon (Manisa Lalesi)
+Süs Bitkileri,Üretim (Adet),Çiçek Soðanlarý
+Süs Bitkileri,Üretim (Adet),Dýþ Mekan Süs Bitkileri
+Süs Bitkileri,Üretim (Adet),Diðer Kesme Çiçekler
+Süs Bitkileri,Üretim (Adet),Fresia
+Süs Bitkileri,Üretim (Adet),Gerbera
+Süs Bitkileri,Üretim (Adet),Glayöl (Gladiol)
+Süs Bitkileri,Üretim (Adet),Gül (Kesme)
+Süs Bitkileri,Üretim (Adet),Gypsohilla
+Süs Bitkileri,Üretim (Adet),Ýç Mekan Süs Bitkileri
+Süs Bitkileri,Üretim (Adet),Ýris
+Süs Bitkileri,Üretim (Adet),Karanfil
+Süs Bitkileri,Üretim (Adet),Kasýmpatý (Krizantem)
+Süs Bitkileri,Üretim (Adet),Lale
+Süs Bitkileri,Üretim (Adet),Lilyum (Zambak)
+Süs Bitkileri,Üretim (Adet),Lisianthus
+Süs Bitkileri,Üretim (Adet),Nergiz
+Süs Bitkileri,Üretim (Adet),Orkide
+Süs Bitkileri,Üretim (Adet),Solidago (Altýnbaþak)
+Süs Bitkileri,Üretim (Adet),Statice
+Süs Bitkileri,Üretim (Adet),Sümbül
+Süs Bitkileri,Üretim (Adet),Þebboy
+Tarýmsal Alan,Tarým Alaný,"Meyveler, Ýçecek Ve Baharat Bitkileri Alaný (Dekar)"
+Tarýmsal Alan,Tarým Alaný,Nadas Alaný (Dekar)
+Tarýmsal Alan,Tarým Alaný,Sebze Alaný (Dekar)
+Tarýmsal Alan,Tarým Alaný,Süs Bitkileri Alaný (Dekar)
+Tarýmsal Alan,Tarým Alaný,Tarla Bitkileri Alaný (Dekar)
+Tarýmsal Alan,Tarým Alaný,Toplam Alan (Dekar)
+Tarýmsal Alet,Biçerdöverler,Biçerdöver (0-5 Yaþ)
+Tarýmsal Alet,Biçerdöverler,Biçerdöver (11-20 Yaþ)
+Tarýmsal Alet,Biçerdöverler,Biçerdöver (21 Yaþ Ve Üzeri)
+Tarýmsal Alet,Biçerdöverler,Biçerdöver (6-10 Yaþ)
+Tarýmsal Alet,Biçerdöverler,Biçerdöver (Kendi Yürür Biçerdöver)
+Tarýmsal Alet,Hasat Makineleri,Döven
+Tarýmsal Alet,Hasat Makineleri,Fýndýk Harman Makinasý
+Tarýmsal Alet,Hasat Makineleri,Harman Makinasý
+Tarýmsal Alet,Hasat Makineleri,Kimyevi Gübre Daðýtma Makinasý
+Tarýmsal Alet,Hasat Makineleri,Kombine Pancar Hasat Makinasý
+Tarýmsal Alet,Hasat Makineleri,Kombine Pancar Hasat Makineleri Makinasý
+Tarýmsal Alet,Hasat Makineleri,Kombine Patates Hasat Makinasý
+Tarýmsal Alet,Hasat Makineleri,Kombine Patates Hasat Makineleri Makinasý
+Tarýmsal Alet,Hasat Makineleri,Meyve Hasat Makinalarý
+Tarýmsal Alet,Hasat Makineleri,Meyve Hasat Makineleri Makinalarý
+Tarýmsal Alet,Hasat Makineleri,Mýsýr Daneleme Makinasý
+Tarýmsal Alet,Hasat Makineleri,Mýsýr Hasat Makinasý
+Tarýmsal Alet,Hasat Makineleri,Mýsýr Hasat Makineleri Makinasý
+Tarýmsal Alet,Hasat Makineleri,Motorlu Týrpan
+Tarýmsal Alet,Hasat Makineleri,Orak Makinasý
+Tarýmsal Alet,Hasat Makineleri,Pamuk Toplama Makinasý
+Tarýmsal Alet,Hasat Makineleri,Pancar Sökme Makinasý
+Tarýmsal Alet,Hasat Makineleri,Patates Sökme Makinasý
+Tarýmsal Alet,Hasat Makineleri,Sap Döver
+Tarýmsal Alet,Hasat Makineleri,Selektör (Sabit Veya Seyyar)
+Tarýmsal Alet,Hasat Makineleri,Traktörle Çekilen Çayýr Biçme Makinasý
+Tarýmsal Alet,Hasat Makineleri,Ürün Kurutma Makinasý
+Tarýmsal Alet,Hasat Makineleri,Yem Hazýrlama Makinasý
+Tarýmsal Alet,Hasat Makineleri,Yem Makineleri Hazýrlama Makinasý
+Tarýmsal Alet,Hasat Makineleri,Yerfýstýðý Harman Makinasý
+Tarýmsal Alet,Hasat Makineleri,Yerfýstýðý Hasat Makinasý
+Tarýmsal Alet,Hasat Makineleri,Yerfýstýðý Hasat Makineleri Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Civciv Ana Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Hayvanla Çekilen Çapa Makinalarý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Hayvanla Çekilen Çayýr Biçme Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Hayvanla Çekilen Hububat Ekim Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Krema Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Kuluçka Makinasý
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Süt Saðým Makinasý (Seyyar)
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Süt Saðým Tesisi
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Yayýk
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Yem Daðýtýcý Römork
+Tarýmsal Alet,Hayvansal Üretim Makineleri,Yem Makineleri Daðýtýcý Römork
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Atomizör
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Çiftlik Gübresi Daðýtma Makinasý
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Kuyruk Milinden Hareketli Pulverizatör
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Motorlu Pulverizatör
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,"Sedyeli, Motorlu Pulverizatör Tozlayýcý  Kombine Atomizör"
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Sýrt Pulverizatörü
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Tarýmsal Mücadele Uçaðý
+Tarýmsal Alet,Ýlaçlama/Gübreleme Makineleri,Tozlayýcý
+Tarýmsal Alet,Sulama Makineleri,Damla Sulama Makineleri Tesisi
+Tarýmsal Alet,Sulama Makineleri,Damla Sulama Tesisi
+Tarýmsal Alet,Sulama Makineleri,Derin Kuyu Pompa
+Tarýmsal Alet,Sulama Makineleri,Elektropomp
+Tarýmsal Alet,Sulama Makineleri,Motopomp (Termik)
+Tarýmsal Alet,Sulama Makineleri,Santrifüj Pompa
+Tarýmsal Alet,Sulama Makineleri,Su Tankeri (Tarýmda Kullanýlan)
+Tarýmsal Alet,Sulama Makineleri,Yaðmurlama Tesisi
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Anýza Ekim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Ark Açma Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Dip Kazan (Subsoiler)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Diskli Anýz Pulluðu (Vanvey)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Diskli Týrmýk (Diskarolar)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Diskli Traktör Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Diþli Týrmýk
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Döner Kulaklý Traktör Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Fide Dikim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Hayvan Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Hayvanla Ve Traktörle Çekilen Ara Çapa Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Karasaban
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Kombikürüm (Karma Týrmýk)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Kombine Hububat Ekim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Kulaklý Anýz Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Kulaklý Traktör Pulluðu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Kültüvatör
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Merdane
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Ot Týrmýðý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Pancar Mibzeri
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Patates Dikim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Pnömatik Ekim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Rototiller
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Sap Parçalama Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Set Yapma Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Taþ Toplama Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Toprak Burgusu
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Toprak Frezesi (Rotovatör)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Toprak Tesviye Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Traktörle Çekilen Çapa Makinalarý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Traktörle Çekilen Hububat Ekim Makinasý
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Üniversal Ekim Makinasý (Mekanik) (Pancar Mibzeri Dahil)
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Üniversal Mibzer
+Tarýmsal Alet,Toprak Ýþleme Makineleri,Ürün Sýnýflandýrma Makinasý (Selektör Hariç)
+Tarýmsal Alet,Traktörler,Traktörler
+Tarýmsal Alet,Yardýmcý Makineler,Kepçe (Tarýmda Kullanýlan)
+Tarýmsal Alet,Yardýmcý Makineler,Römork (Tarým Arabasý)
+Tarýmsal Alet,Yem Makineleri,Balya Makinasý
+Tarýmsal Alet,Yem Makineleri,Biçer Baðlar Makinasý
+Tarýmsal Alet,Yem Makineleri,Mýsýr Silaj Makinasý
+Tarýmsal Alet,Yem Makineleri,Ot Silaj Makinasý
+Tarýmsal Alet,Yem Makineleri,Saman Aktarma-Boþaltma Makinasý
+Tarýmsal Alet,Yem Makineleri,Sap Döver Ve Harman Makinasý (Batöz)
+Tarýmsal Alet,Yem Makineleri,Sap Toplamalý Saman Yapma Makinasý
+Tarýmsal Alet,Yem Makineleri,Týnaz Makinasý
+Tarla Bitkileri,Ekilen Alan (Dekar),Acýbakla
+Tarla Bitkileri,Ekilen Alan (Dekar),Adaçayý
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Biralýk)
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Biralýk) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Biralýk) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Diðer)
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Diðer) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Diðer) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Arpa (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Aspir
+Tarla Bitkileri,Ekilen Alan (Dekar),Aspir - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Aspir - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Çerezlik)
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Çerezlik) 1.Ekiliþ Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Çerezlik)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Çerezlik)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Yaðlýk)
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Yaðlýk)-1. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Ayçiçeði (Yaðlýk)-2. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Bakla (Hayvan Yemi)
+Tarla Bitkileri,Ekilen Alan (Dekar),Bakla (Yemeklik)
+Tarla Bitkileri,Ekilen Alan (Dekar),Bezelye
+Tarla Bitkileri,Ekilen Alan (Dekar),Bezelye (Yemlik) (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Börülce
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Diðer)
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Diðer) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Diðer) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Durum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Durum) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Durum) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Buðday (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Burçak (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Burçak (Kuru Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Burçak (Yesil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Buy (Çemen Otu)
+Tarla Bitkileri,Ekilen Alan (Dekar),Çavdar
+Tarla Bitkileri,Ekilen Alan (Dekar),Çavdar (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Çayýr Otu (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Çeltik
+Tarla Bitkileri,Ekilen Alan (Dekar),Çeltik - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Çeltik - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Darý
+Tarla Bitkileri,Ekilen Alan (Dekar),Elit (Þekerpancarý Tohumu)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fasulye (Kuru)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fasulye (Kuru) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Fasulye (Kuru) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Adi ) (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Adi) (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Diðer ) (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Diðer ) (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Kuru Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Macar ) (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Macar ) (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Fið (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Gül (Yaðlýk)
+Tarla Bitkileri,Ekilen Alan (Dekar),Haþhaþ (Kapsül)
+Tarla Bitkileri,Ekilen Alan (Dekar),Haþhaþ (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Hayvan Pancarý
+Tarla Bitkileri,Ekilen Alan (Dekar),Isýrgan Otu
+Tarla Bitkileri,Ekilen Alan (Dekar),Ýtalyan Çimi
+Tarla Bitkileri,Ekilen Alan (Dekar),Kaplýca
+Tarla Bitkileri,Ekilen Alan (Dekar),Kenevir (Lif)
+Tarla Bitkileri,Ekilen Alan (Dekar),Kenevir (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Keten (Lif)
+Tarla Bitkileri,Ekilen Alan (Dekar),Keten (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Kolza (Kanola)
+Tarla Bitkileri,Ekilen Alan (Dekar),Kolza (Kanola) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Kolza (Kanola) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Korunga (Kuru Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Korunga (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Korunga (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Kuþyemi
+Tarla Bitkileri,Ekilen Alan (Dekar),Lavanta
+Tarla Bitkileri,Ekilen Alan (Dekar),Mahlut
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Kýrmýzý)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Kýrmýzý) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Kýrmýzý) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Yeþil)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Yeþil) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Mercimek (Yeþil) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Dane) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Dane) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Dane)-1. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Dane)-2. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Hasýl)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Hasýl) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Hasýl) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Hasýl)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Hasýl)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Silajlýk)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Silajlýk) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Silajlýk) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Silajlýk)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mýsýr (Silajlýk)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Mürdümük (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Mürdümük (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Nohut
+Tarla Bitkileri,Ekilen Alan (Dekar),Nohut - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Nohut - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Oðulotu (Melissa)
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Kütlü)
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Kütlü) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Kütlü) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Kütlü)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Kütlü)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Lif)
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Lif) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Lif) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Lif)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk (Lif)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk Tohumu (Çiðit)
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk Tohumu (Çiðit) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk Tohumu (Çiðit) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk Tohumu (Çiðit)-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Pamuk Tohumu (Çiðit)-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Diðer)
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Diðer) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Diðer) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Diðer) -1. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Diðer) -2. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Tatlý)
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Tatlý) - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Tatlý) - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Tatlý) -1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Patates (Tatlý) -2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Sorgum (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Sorgum (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Soya
+Tarla Bitkileri,Ekilen Alan (Dekar),"Soya  - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Soya - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Soya - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Ekilen Alan (Dekar),"Soya - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Ekilen Alan (Dekar),Soya-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Soya-2. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Susam
+Tarla Bitkileri,Ekilen Alan (Dekar),Susam-1. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Susam-1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Susam-2. Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Susam-2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Þeker Kamýþý
+Tarla Bitkileri,Ekilen Alan (Dekar),Þekerpancarý
+Tarla Bitkileri,Ekilen Alan (Dekar),Þerbetçiotu
+Tarla Bitkileri,Ekilen Alan (Dekar),Tritikale (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Tritikale (Dane) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Tritikale (Dane) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Tritikale (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Tütün
+Tarla Bitkileri,Ekilen Alan (Dekar),Üçgül (Kuru Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Üçgül (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Üçgül (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Yem Þalgamý
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerelmasý
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerfýstýðý
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerfýstýðý - 1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerfýstýðý - 2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerfýstýðý -1.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Yerfýstýðý -2.Ekiliþ
+Tarla Bitkileri,Ekilen Alan (Dekar),Yonca (Kuru Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Yonca (Tohum)
+Tarla Bitkileri,Ekilen Alan (Dekar),Yonca (Yeþil Ot)
+Tarla Bitkileri,Ekilen Alan (Dekar),Yulaf (Dane)
+Tarla Bitkileri,Ekilen Alan (Dekar),Yulaf (Dane) - Kuru
+Tarla Bitkileri,Ekilen Alan (Dekar),Yulaf (Dane) - Sulu
+Tarla Bitkileri,Ekilen Alan (Dekar),Yulaf (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Acýbakla
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Adaçayý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Biralýk)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Biralýk) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Biralýk) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Diðer)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Diðer) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Diðer) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Arpa (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Aspir
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Aspir - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Aspir - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Çerezlik)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Çerezlik) 1.Ekiliþ Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Çerezlik)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Çerezlik)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Yaðlýk)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Yaðlýk)-1. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ayçiçeði (Yaðlýk)-2. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Bakla (Hayvan Yemi)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Bakla (Yemeklik)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Bezelye
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Bezelye (Yemlik) (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Börülce
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Diðer)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Diðer) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Diðer) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Durum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Durum) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Durum) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buðday (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Burçak (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Burçak (Kuru Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Burçak (Yesil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Buy (Çemen Otu)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çavdar
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çavdar (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çayýr Otu (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çeltik
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çeltik - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Çeltik - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Darý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Elit (Þekerpancarý Tohumu)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fasulye (Kuru)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fasulye (Kuru) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fasulye (Kuru) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Adi ) (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Adi) (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Diðer ) (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Diðer ) (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Kuru Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Macar ) (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Macar ) (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Fið (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Gül (Yaðlýk)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Haþhaþ (Kapsül)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Haþhaþ (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Hayvan Pancarý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Isýrgan Otu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Ýtalyan Çimi
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kaplýca
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kenevir (Lif)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kenevir (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Keten (Lif)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Keten (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kolza (Kanola)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kolza (Kanola) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kolza (Kanola) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Korunga (Kuru Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Korunga (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Korunga (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Kuþyemi
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Lavanta
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mahlut
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Kýrmýzý)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Kýrmýzý) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Kýrmýzý) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Yeþil)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Yeþil) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mercimek (Yeþil) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Dane) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Dane) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Dane)-1. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Dane)-2. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Hasýl)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Hasýl) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Hasýl) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Hasýl)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Hasýl)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Silajlýk)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Silajlýk) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Silajlýk) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Silajlýk)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mýsýr (Silajlýk)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mürdümük (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Mürdümük (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Nohut
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Nohut - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Nohut - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Oðulotu (Melissa)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Kütlü)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Kütlü) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Kütlü) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Kütlü)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Kütlü)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Lif)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Lif) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Lif) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Lif)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk (Lif)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk Tohumu (Çiðit)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk Tohumu (Çiðit) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk Tohumu (Çiðit) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk Tohumu (Çiðit)-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Pamuk Tohumu (Çiðit)-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Diðer)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Diðer) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Diðer) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Diðer) -1. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Diðer) -2. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Tatlý)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Tatlý) - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Tatlý) - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Tatlý) -1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Patates (Tatlý) -2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Sorgum (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Sorgum (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Soya
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Soya  - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Soya - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Soya - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),"Soya - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Soya-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Soya-2. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Susam
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Susam-1. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Susam-1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Susam-2. Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Susam-2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Þeker Kamýþý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Þekerpancarý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Þerbetçiotu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Tritikale (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Tritikale (Dane) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Tritikale (Dane) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Tritikale (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Tütün
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Üçgül (Kuru Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Üçgül (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Üçgül (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yem Þalgamý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerelmasý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerfýstýðý
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerfýstýðý - 1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerfýstýðý - 2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerfýstýðý -1.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yerfýstýðý -2.Ekiliþ
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yonca (Kuru Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yonca (Tohum)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yonca (Yeþil Ot)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yulaf (Dane)
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yulaf (Dane) - Kuru
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yulaf (Dane) - Sulu
+Tarla Bitkileri,Hasat Edilen Alan (Dekar),Yulaf (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Acýbakla
+Tarla Bitkileri,Üretim (Ton),Adaçayý
+Tarla Bitkileri,Üretim (Ton),Arpa (Biralýk)
+Tarla Bitkileri,Üretim (Ton),Arpa (Biralýk) - Kuru
+Tarla Bitkileri,Üretim (Ton),Arpa (Biralýk) - Sulu
+Tarla Bitkileri,Üretim (Ton),Arpa (Diðer)
+Tarla Bitkileri,Üretim (Ton),Arpa (Diðer) - Kuru
+Tarla Bitkileri,Üretim (Ton),Arpa (Diðer) - Sulu
+Tarla Bitkileri,Üretim (Ton),Arpa (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Aspir
+Tarla Bitkileri,Üretim (Ton),Aspir - Kuru
+Tarla Bitkileri,Üretim (Ton),Aspir - Sulu
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Çerezlik)
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Çerezlik) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Çerezlik) 1.Ekiliþ Sulu
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Çerezlik)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Çerezlik)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Yaðlýk)
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Yaðlýk)-1. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Ayçiçeði (Yaðlýk)-2. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Bakla (Hayvan Yemi)
+Tarla Bitkileri,Üretim (Ton),Bakla (Yemeklik)
+Tarla Bitkileri,Üretim (Ton),Bezelye
+Tarla Bitkileri,Üretim (Ton),Bezelye (Yemlik) (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Börülce
+Tarla Bitkileri,Üretim (Ton),Buðday (Diðer)
+Tarla Bitkileri,Üretim (Ton),Buðday (Diðer) - Kuru
+Tarla Bitkileri,Üretim (Ton),Buðday (Diðer) - Sulu
+Tarla Bitkileri,Üretim (Ton),Buðday (Durum)
+Tarla Bitkileri,Üretim (Ton),Buðday (Durum) - Kuru
+Tarla Bitkileri,Üretim (Ton),Buðday (Durum) - Sulu
+Tarla Bitkileri,Üretim (Ton),Buðday (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Burçak (Dane)
+Tarla Bitkileri,Üretim (Ton),Burçak (Kuru Ot)
+Tarla Bitkileri,Üretim (Ton),Burçak (Yesil Ot)
+Tarla Bitkileri,Üretim (Ton),Buy (Çemen Otu)
+Tarla Bitkileri,Üretim (Ton),Çavdar
+Tarla Bitkileri,Üretim (Ton),Çavdar (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Çayýr Otu (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Çeltik
+Tarla Bitkileri,Üretim (Ton),Çeltik - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Çeltik - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Darý
+Tarla Bitkileri,Üretim (Ton),Elit (Þekerpancarý Tohumu)
+Tarla Bitkileri,Üretim (Ton),Fasulye (Kuru)
+Tarla Bitkileri,Üretim (Ton),Fasulye (Kuru) - Kuru
+Tarla Bitkileri,Üretim (Ton),Fasulye (Kuru) - Sulu
+Tarla Bitkileri,Üretim (Ton),Fið (Adi ) (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Fið (Adi) (Dane)
+Tarla Bitkileri,Üretim (Ton),Fið (Dane)
+Tarla Bitkileri,Üretim (Ton),Fið (Diðer ) (Dane)
+Tarla Bitkileri,Üretim (Ton),Fið (Diðer ) (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Fið (Kuru Ot)
+Tarla Bitkileri,Üretim (Ton),Fið (Macar ) (Dane)
+Tarla Bitkileri,Üretim (Ton),Fið (Macar ) (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Fið (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Gül (Yaðlýk)
+Tarla Bitkileri,Üretim (Ton),Haþhaþ (Kapsül)
+Tarla Bitkileri,Üretim (Ton),Haþhaþ (Tohum)
+Tarla Bitkileri,Üretim (Ton),Hayvan Pancarý
+Tarla Bitkileri,Üretim (Ton),Isýrgan Otu
+Tarla Bitkileri,Üretim (Ton),Ýtalyan Çimi
+Tarla Bitkileri,Üretim (Ton),Kaplýca
+Tarla Bitkileri,Üretim (Ton),Kenevir (Lif)
+Tarla Bitkileri,Üretim (Ton),Kenevir (Tohum)
+Tarla Bitkileri,Üretim (Ton),Keten (Lif)
+Tarla Bitkileri,Üretim (Ton),Keten (Tohum)
+Tarla Bitkileri,Üretim (Ton),Kolza (Kanola)
+Tarla Bitkileri,Üretim (Ton),Kolza (Kanola) - Kuru
+Tarla Bitkileri,Üretim (Ton),Kolza (Kanola) - Sulu
+Tarla Bitkileri,Üretim (Ton),Korunga (Kuru Ot)
+Tarla Bitkileri,Üretim (Ton),Korunga (Tohum)
+Tarla Bitkileri,Üretim (Ton),Korunga (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Kuþyemi
+Tarla Bitkileri,Üretim (Ton),Lavanta
+Tarla Bitkileri,Üretim (Ton),Mahlut
+Tarla Bitkileri,Üretim (Ton),Mercimek (Kýrmýzý)
+Tarla Bitkileri,Üretim (Ton),Mercimek (Kýrmýzý) - Kuru
+Tarla Bitkileri,Üretim (Ton),Mercimek (Kýrmýzý) - Sulu
+Tarla Bitkileri,Üretim (Ton),Mercimek (Yeþil)
+Tarla Bitkileri,Üretim (Ton),Mercimek (Yeþil) - Kuru
+Tarla Bitkileri,Üretim (Ton),Mercimek (Yeþil) - Sulu
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Dane)
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Dane) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Dane) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Dane)-1. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Dane)-2. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Hasýl)
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Hasýl) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Hasýl) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Hasýl)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Hasýl)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Silajlýk)
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Silajlýk) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Silajlýk) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Silajlýk)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mýsýr (Silajlýk)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Mürdümük (Dane)
+Tarla Bitkileri,Üretim (Ton),Mürdümük (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Nohut
+Tarla Bitkileri,Üretim (Ton),Nohut - Kuru
+Tarla Bitkileri,Üretim (Ton),Nohut - Sulu
+Tarla Bitkileri,Üretim (Ton),Oðulotu (Melissa)
+Tarla Bitkileri,Üretim (Ton),Pamuk (Kütlü)
+Tarla Bitkileri,Üretim (Ton),Pamuk (Kütlü) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Kütlü) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Kütlü)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Kütlü)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Lif)
+Tarla Bitkileri,Üretim (Ton),Pamuk (Lif) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Lif) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Lif)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk (Lif)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk Tohumu (Çiðit)
+Tarla Bitkileri,Üretim (Ton),Pamuk Tohumu (Çiðit) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk Tohumu (Çiðit) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk Tohumu (Çiðit)-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Pamuk Tohumu (Çiðit)-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Diðer)
+Tarla Bitkileri,Üretim (Ton),Patates (Diðer) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Diðer) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Diðer) -1. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Diðer) -2. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Tatlý)
+Tarla Bitkileri,Üretim (Ton),Patates (Tatlý) - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Tatlý) - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Tatlý) -1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Patates (Tatlý) -2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Sorgum (Dane)
+Tarla Bitkileri,Üretim (Ton),Sorgum (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Soya
+Tarla Bitkileri,Üretim (Ton),"Soya  - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Soya - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Üretim (Ton),"Soya - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Üretim (Ton),"Soya - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Üretim (Ton),Soya-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Soya-2. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Susam
+Tarla Bitkileri,Üretim (Ton),Susam-1. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Susam-1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Susam-2. Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Susam-2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Þeker Kamýþý
+Tarla Bitkileri,Üretim (Ton),Þekerpancarý
+Tarla Bitkileri,Üretim (Ton),Þerbetçiotu
+Tarla Bitkileri,Üretim (Ton),Tritikale (Dane)
+Tarla Bitkileri,Üretim (Ton),Tritikale (Dane) - Kuru
+Tarla Bitkileri,Üretim (Ton),Tritikale (Dane) - Sulu
+Tarla Bitkileri,Üretim (Ton),Tritikale (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Tütün
+Tarla Bitkileri,Üretim (Ton),Üçgül (Kuru Ot)
+Tarla Bitkileri,Üretim (Ton),Üçgül (Tohum)
+Tarla Bitkileri,Üretim (Ton),Üçgül (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Yem Þalgamý
+Tarla Bitkileri,Üretim (Ton),Yerelmasý
+Tarla Bitkileri,Üretim (Ton),Yerfýstýðý
+Tarla Bitkileri,Üretim (Ton),Yerfýstýðý - 1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Yerfýstýðý - 2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Yerfýstýðý -1.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Yerfýstýðý -2.Ekiliþ
+Tarla Bitkileri,Üretim (Ton),Yonca (Kuru Ot)
+Tarla Bitkileri,Üretim (Ton),Yonca (Tohum)
+Tarla Bitkileri,Üretim (Ton),Yonca (Yeþil Ot)
+Tarla Bitkileri,Üretim (Ton),Yulaf (Dane)
+Tarla Bitkileri,Üretim (Ton),Yulaf (Dane) - Kuru
+Tarla Bitkileri,Üretim (Ton),Yulaf (Dane) - Sulu
+Tarla Bitkileri,Üretim (Ton),Yulaf (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Acýbakla
+Tarla Bitkileri,Verim (Kg/Da),Adaçayý
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Biralýk)
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Biralýk) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Biralýk) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Diðer)
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Diðer) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Diðer) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Arpa (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Aspir
+Tarla Bitkileri,Verim (Kg/Da),Aspir - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Aspir - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Çerezlik)
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Çerezlik) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Çerezlik) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Çerezlik) 1.Ekiliþ Sulu
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Çerezlik)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Çerezlik)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Yaðlýk)
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Yaðlýk) - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Ayçiçeði (Yaðlýk) - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Yaðlýk)-1. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Ayçiçeði (Yaðlýk)-2. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Bakla (Hayvan Yemi)
+Tarla Bitkileri,Verim (Kg/Da),Bakla (Yemeklik)
+Tarla Bitkileri,Verim (Kg/Da),Bezelye
+Tarla Bitkileri,Verim (Kg/Da),Bezelye (Yemlik) (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Börülce
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Diðer)
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Diðer) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Diðer) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Durum)
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Durum) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Durum) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Buðday (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Burçak (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Burçak (Yesil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Buy (Çemen Otu)
+Tarla Bitkileri,Verim (Kg/Da),Çavdar
+Tarla Bitkileri,Verim (Kg/Da),Çavdar (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Çayýr Otu (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Çeltik
+Tarla Bitkileri,Verim (Kg/Da),Çeltik - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Çeltik - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Darý
+Tarla Bitkileri,Verim (Kg/Da),Elit (Þekerpancarý Tohumu)
+Tarla Bitkileri,Verim (Kg/Da),Fasulye (Kuru)
+Tarla Bitkileri,Verim (Kg/Da),Fasulye (Kuru) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Fasulye (Kuru) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Fið (Adi ) (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Adi) (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Diðer ) (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Diðer ) (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Macar ) (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Macar ) (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Fið (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Gül (Yaðlýk)
+Tarla Bitkileri,Verim (Kg/Da),Haþhaþ (Kapsül)
+Tarla Bitkileri,Verim (Kg/Da),Haþhaþ (Tohum)
+Tarla Bitkileri,Verim (Kg/Da),Hayvan Pancarý
+Tarla Bitkileri,Verim (Kg/Da),Isýrgan Otu
+Tarla Bitkileri,Verim (Kg/Da),Ýtalyan Çimi
+Tarla Bitkileri,Verim (Kg/Da),Kaplýca
+Tarla Bitkileri,Verim (Kg/Da),Kenevir (Lif)
+Tarla Bitkileri,Verim (Kg/Da),Kenevir (Tohum)
+Tarla Bitkileri,Verim (Kg/Da),Keten (Lif)
+Tarla Bitkileri,Verim (Kg/Da),Keten (Tohum)
+Tarla Bitkileri,Verim (Kg/Da),Kolza (Kanola)
+Tarla Bitkileri,Verim (Kg/Da),Kolza (Kanola) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Kolza (Kanola) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Korunga (Tohum)
+Tarla Bitkileri,Verim (Kg/Da),Korunga (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Kuþyemi
+Tarla Bitkileri,Verim (Kg/Da),Lavanta
+Tarla Bitkileri,Verim (Kg/Da),Mahlut
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Kýrmýzý)
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Kýrmýzý) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Kýrmýzý) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Yeþil)
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Yeþil) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Mercimek (Yeþil) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Dane) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Dane) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Dane)-1. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Dane)-2. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Hasýl)
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Hasýl) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Hasýl) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Hasýl)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Hasýl)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Silajlýk)
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Silajlýk) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Silajlýk) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Silajlýk)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mýsýr (Silajlýk)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Mürdümük (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Mürdümük (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Nohut
+Tarla Bitkileri,Verim (Kg/Da),Nohut - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Nohut - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Oðulotu (Melissa)
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Kütlü)
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Kütlü) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Kütlü) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Kütlü)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Kütlü)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Lif)
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Lif) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Lif) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Lif)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk (Lif)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk Tohumu (Çiðit)
+Tarla Bitkileri,Verim (Kg/Da),Pamuk Tohumu (Çiðit) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk Tohumu (Çiðit) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk Tohumu (Çiðit)-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Pamuk Tohumu (Çiðit)-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Diðer)
+Tarla Bitkileri,Verim (Kg/Da),Patates (Diðer) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Diðer) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Diðer) -1. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Diðer) -2. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Tatlý)
+Tarla Bitkileri,Verim (Kg/Da),Patates (Tatlý) - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Tatlý) - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Tatlý) -1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Patates (Tatlý) -2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Sorgum (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Sorgum (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Soya
+Tarla Bitkileri,Verim (Kg/Da),"Soya  - 1.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Soya - 1.Ekiliþ, Sulu"
+Tarla Bitkileri,Verim (Kg/Da),"Soya - 2.Ekiliþ, Kuru"
+Tarla Bitkileri,Verim (Kg/Da),"Soya - 2.Ekiliþ, Sulu"
+Tarla Bitkileri,Verim (Kg/Da),Soya-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Soya-2. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Susam
+Tarla Bitkileri,Verim (Kg/Da),Susam-1. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Susam-1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Susam-2. Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Susam-2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Þeker Kamýþý
+Tarla Bitkileri,Verim (Kg/Da),Þekerpancarý
+Tarla Bitkileri,Verim (Kg/Da),Þerbetçiotu
+Tarla Bitkileri,Verim (Kg/Da),Tritikale (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Tritikale (Dane) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Tritikale (Dane) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Tritikale (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Tütün
+Tarla Bitkileri,Verim (Kg/Da),Üçgül (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Yem Þalgamý
+Tarla Bitkileri,Verim (Kg/Da),Yerelmasý
+Tarla Bitkileri,Verim (Kg/Da),Yerfýstýðý
+Tarla Bitkileri,Verim (Kg/Da),Yerfýstýðý - 1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Yerfýstýðý - 2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Yerfýstýðý -1.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Yerfýstýðý -2.Ekiliþ
+Tarla Bitkileri,Verim (Kg/Da),Yonca (Tohum)
+Tarla Bitkileri,Verim (Kg/Da),Yonca (Yeþil Ot)
+Tarla Bitkileri,Verim (Kg/Da),Yulaf (Dane)
+Tarla Bitkileri,Verim (Kg/Da),Yulaf (Dane) - Kuru
+Tarla Bitkileri,Verim (Kg/Da),Yulaf (Dane) - Sulu
+Tarla Bitkileri,Verim (Kg/Da),Yulaf (Yeþil Ot)
